@@ -1,12 +1,14 @@
-## Ultimatum-Game
-# MAS ultimatum game simulation in JAVA
+# Ultimatum-Game
+## MAS ultimatum game simulation in JAVA
 
+### Definition
 The ultimatum game is a popular instrument of economics experiments to clarify notions of justice and reciprocity.
 It consist of 2 players dealing with a sum of money. The first one is the proposer and is tasked with splitting the sum of money with the other one, the responder.
 Once the proposer communicates his decision, the responder may accept or decline it.
 If the responder accept, the money is split according to the proposal and if he declines both receive nothing.
 Both know in advance the consequences of accepting or rejecting the proposal.
 
+### Project
 In this project we implement this game with 4 kind of agents with different behaviour that will be proposer and responder at the same time.
 Another agent, the coordinator, is here to collect the result of each agent.
 The number of agents evolving in the system is up to the user and can be set in the code.
@@ -29,6 +31,7 @@ When he makes a proposal he will always keep 90% of the sum for itself.
 The greedy agent:
 This agent will accept every offers and will always keep 90% of the sum for itself.
 
+### Aim
 The aim of this project is determine which behaviour is the best to maximize the amount of money at the end, when a lot of agent are evolving in the same environment.
 Each kind of agent are equally distributed in the system and when an agent makes a proposal he will choose another agent randomly
 
