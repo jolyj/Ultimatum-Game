@@ -1,5 +1,5 @@
-# Ultimatum-Game
-MAS ultimatum game simulation in JAVA
+## Ultimatum-Game
+# MAS ultimatum game simulation in JAVA
 
 The ultimatum game is a popular instrument of economics experiments to clarify notions of justice and reciprocity.
 It consist of 2 players dealing with a sum of money. The first one is the proposer and is tasked with splitting the sum of money with the other one, the responder.
